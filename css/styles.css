@@ -811,8 +811,9 @@ footer .links {
 }
 
 .form-agreement {
+  display: flex;
+  justify-content: center;
   margin-bottom: 30px;
-  padding-left: 12px;
 }
 
 .form-agreement-checkbox {
